@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://cutewallpaper.org/21/racing-track-wallpaper/Circuit-Zolder-Store-RaceRoom-Racing-Experience.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
+    overflow: hidden;
+    user-select: none;
+}
+#finish{
+    display: inline;
+    padding-bottom: 200px;
+}
+.tras{
+    background-image: url(tras.jpg);
+    background-repeat: repeat;
+    background-size: 40% ;
+    margin-top: 20px;
+}
+#ok{
+    font-family: cursive;
+    font-size: 40px;
+    align-items: center;
+    border-radius: 30px;
+    border: none;
+    margin-left: 640px;
+    width: 200px; 
+    height: 65px;
+    cursor: pointer;
+    background-color: orange;
+}
+#ok:hover{
+background-color: yellowgreen;
+}
+.footer{
+    font-size: 200px;
+    margin-top: -20px;
+    margin-left: 90px;
+    color: rgb(255, 187, 0);
+    font-family: 'Gwendolyn', cursive;
+    text-shadow: 2px 20px 10px black;
+}
+.win{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(66, 249, 255);
+    font-family:'Gwendolyn', cursive ;
+    margin-right: 50px;
+    text-shadow: 2px 5px 5px rgb(0, 0, 0);
+}
+.two{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family:'Gwendolyn', cursive ;
+    margin-right: 50px;
+    text-shadow: 0px 5px 5px rgb(255, 255, 255);
+}
+.tree{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0) ;
+    font-family:'Gwendolyn', cursive ;
+    margin-right: 50px;text-shadow: 0px 5px 5px rgb(255, 255, 255);
+}
